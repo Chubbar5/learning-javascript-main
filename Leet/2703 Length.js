@@ -1,4 +1,4 @@
-/* initiatl try
+/* initial try
 function argumentsLength(){
     var length = argumentsLength.length
     return length;
